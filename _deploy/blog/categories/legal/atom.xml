@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: legal | My Octopress Blog]]></title>
+  <link href="http://vishwassharma.github.com/blog/categories/legal/atom.xml" rel="self"/>
+  <link href="http://vishwassharma.github.com/"/>
+  <updated>2012-07-27T05:07:56+05:30</updated>
+  <id>http://vishwassharma.github.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[License raaj]]></title>
+    <link href="http://vishwassharma.github.com/blog/2012/07/27/license-raaj/"/>
+    <updated>2012-07-27T05:06:00+05:30</updated>
+    <id>http://vishwassharma.github.com/blog/2012/07/27/license-raaj</id>
+    <content type="html"><![CDATA[<p>Choosing the right license</p>
+
+<p>At some point you have decided what you are going to code, probrally laid out few plans to release new libraries, make some module and finally have some fun with it.</p>
+
+<p>Now most people like me do all these things and then oh heck they code. Always on a coding high not many of us think about licenses.</p>
+
+<p>You said what!, i dont care of license you ask.</p>
+
+<p>When ever you write a code which does not specify a license you make certain assumptions that it would be opensource by default. But that is not the case, since the code is not under any license, the code is copyrighted by default. People can read the code, but any experienced developer would not work on your code.</p>
+
+<p>So lates make our case one :</p>
+
+<h3>I do not have any license mentioned in my project</h3>
+
+<p>Coder : If nothing is written about the code license it is assumed to be copyrighted and you have to give explicit permission to use/modify this code.</p>
+
+<p>Developer : You must ask permission from the developer to explicitly use there code</p>
+
+<p><strong> You now decide.. ok i will have a license and will lay rest all my problem. So tell me which license to use</strong></p>
+
+<h2>Opening can of worms</h2>
+
+<h3><a href="http://en.wikipedia.org/wiki/Public_domain">Public Domain</a></h3>
+
+<p>Coder : You should be remembered
+Developer : No need to remember "coder", take the code do anything you like with it</p>
+
+<p>Any work available in public domain is equivalent of saying that it is unavailable for private ownership. So, if the code is in the public domain, anyone may use your code for any purpose whatsoever. Nothing is in the public domain by default; you have to have explicitly put you work in it. Ofterwise the code will expire its natural life of copyrights.</p>
+
+<h3><a href="http://en.wikipedia.org/wiki/GNU_General_Public_License">GPL License</a></h3>
+
+<p><strong>Coder</strong> : You have to specify GPL licenses.Your code can never be used in any proprietary program, ever!
+<strong>Developer</strong> : You can use it but you have to also make your project GPL license and opensource.
+<strong>Salesman/Consultant</strong> : You can charge for projects on GPL as long as you make sure that client knows that project is avaiable free of charge if he want it.</p>
+
+<p>With GPL you can copy the software, you would have every right to distribute it and charge a fee to distribute the software ( as long as you are fair). It allows you to make modification to the software you want, as long as the product on which it is used has GPL license.</p>
+
+<h3><a href="http://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License">LGPL License</a></h3>
+
+<p><strong>Coder</strong> : You have to specify GPL licenses.Your code can never be used in any proprietary program, ever!
+<strong>Developer</strong> : You can use it but you have to also make your project GPL license and opensource.
+<strong>Salesman/Consultant</strong> : You can charge for projects on GPL as long as you make sure that client knows that project is avaiable free of charge if he want it.</p>
+]]></content>
+  </entry>
+  
+</feed>
